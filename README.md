@@ -1,5 +1,8 @@
-# design-patterns.js
+# Wzorce projektowe
 
+Lista najpopularniejszych wzorców projektowych:
+
+```
 Adapter
 Bridge
 Builder
@@ -18,5 +21,12 @@ Module
 Observer
 Prototype
 Proxy
-README.mdSingleton
+Singleton
 Strategy
+```
+
+Projekt ma na celu stworzenie listy zadań (ćwiczeń) jakie można wykonać w JavaScript realizując każdy ze wzorców.
+
+## Autorzy
+
+ - [piecioshka](http://twitter.com/piecioshka)
