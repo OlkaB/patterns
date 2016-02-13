@@ -12,8 +12,8 @@ class Engine {
         this.registerListeners()
     }
 
-    runCoreMethod() {
-        this.emit('action-name', 1);
+    manage() {
+        this.emit('action-name', { type: 'manage' });
     }
 
     registerListeners() {
