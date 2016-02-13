@@ -1,30 +1,37 @@
-# design-pattern-js
+# patterns
 
-> Simplest Design Pattern implementation in JavaScript.
+> Simplest Patterns implementation in JavaScript.
 
 ```
-├── behavioral
-│   ├── command
-│   ├── iterator
-│   ├── mediator
-│   ├── observer
-│   └── strategy
-├── creational
-│   ├── abstract-factory
-│   ├── builder
-│   ├── factory-method
-│   ├── prototype
-│   └── singleton
+.
+├── enterprise-integration-patterns
+│   └── message-oriented-middleware
 ├── patterns
 │   ├── constructor
 │   ├── mixin
 │   └── module
-└── structural
-    ├── adapter
-    ├── bridge
-    ├── composite
-    ├── decorator
-    ├── facade
-    ├── flyweight
-    └── proxy
+└── software-design-patterns
+    ├── architectural
+    │   └── model-view-presenter
+    └── gang-of-four-patterns
+        ├── behavioral
+        │   ├── command
+        │   ├── iterator
+        │   ├── mediator
+        │   ├── observer
+        │   └── strategy
+        ├── creational
+        │   ├── abstract-factory
+        │   ├── builder
+        │   ├── factory-method
+        │   ├── prototype
+        │   └── singleton
+        └── structural
+            ├── adapter
+            ├── bridge
+            ├── composite
+            ├── decorator
+            ├── facade
+            ├── flyweight
+            └── proxy
 ```
