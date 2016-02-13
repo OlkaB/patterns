@@ -5,7 +5,19 @@
 ```
 .
 ├── enterprise-integration-patterns
-│   └── message-oriented-middleware
+│   ├── aggregator
+│   ├── content-based-router
+│   ├── control-bus
+│   ├── correlation-identifier
+│   ├── message-oriented-middleware
+│   ├── pipes-and-filters
+│   ├── request-reply
+│   ├── return-address
+│   ├── scatter-gather
+│   ├── smart-proxy
+│   ├── splitter
+│   ├── test-message
+│   └── wire-tap
 └── software-design-patterns
     ├── architectural
     │   └── model-view-presenter
