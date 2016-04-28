@@ -2,6 +2,17 @@
 
 > :notebook_with_decorative_cover: Simplest implementation of "patterns" in JavaScript (ECMAScript 6).
 
+## Examples
+
+```
+npm run model-view-controller
+npm run strategy
+npm run factory-method
+npm run singleton
+```
+
+## Supported patters (by command `tree -d`)
+
 ```
 .
 ├── enterprise-integration-patterns
@@ -20,6 +31,7 @@
 │   └── wire-tap
 └── software-design-patterns
     ├── architectural
+    │   ├── model-view-controller
     │   └── model-view-presenter
     └── gang-of-four-patterns
         ├── behavioral
@@ -42,10 +54,11 @@
             ├── facade
             ├── flyweight
             └── proxy
+
 ```
 
 ## Resources
 
 - http://martinfowler.com/eaaDev/ - Development of Further Patterns of Enterprise Application Architecture
 - http://www.enterpriseintegrationpatterns.com/patterns/messaging/ - Messaging Patterns Overview
-- http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf - Great slides
+- http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf - Great slides!

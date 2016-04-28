@@ -1,9 +1,10 @@
 {
     "name": "patterns",
     "scripts": {
-        "model-view-presenter": "node --harmony software-design-patterns/architectural/model-view-presenter/model-view-presenter.js",
+        "model-view-controller": "node --harmony software-design-patterns/architectural/model-view-controller/model-view-controller.js",
         "strategy": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/strategy/strategy.js",
-        "factory-method": "node --harmony software-design-patterns/gang-of-four-patterns/creational/factory-method/factory-method.js"
+        "factory-method": "node --harmony software-design-patterns/gang-of-four-patterns/creational/factory-method/factory-method.js",
+        "singleton": "node --harmony software-design-patterns/gang-of-four-patterns/creational/singleton/singleton.js"
     },
     "devDependencies": {
         "super-event-emitter": "^4.1.0"
@@ -12,5 +13,5 @@
         "type": "git",
         "url": "https://github.com/piecioshka/patterns.git"
     },
-    "license": "UNLICENSED"
+    "license": "MIT"
 }
