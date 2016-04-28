@@ -1,0 +1,14 @@
+{
+    "name": "patterns",
+    "scripts": {
+        "model-view-presenter": "node --harmony software-design-patterns/architectural/model-view-presenter/model-view-presenter.js"
+    },
+    "devDependencies": {
+        "super-event-emitter": "^4.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piecioshka/patterns.git"
+    },
+    "license": "UNLICENSED"
+}
