@@ -1,5 +1,6 @@
 {
     "name": "patterns",
+    "description": "Simplest implementation of design patterns in JavaScript",
     "scripts": {
         "model-view-controller": "node --harmony software-design-patterns/architectural/model-view-controller/model-view-controller.js",
         "strategy": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/strategy/strategy.js",
