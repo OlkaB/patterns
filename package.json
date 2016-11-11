@@ -5,7 +5,8 @@
         "model-view-controller": "node --harmony software-design-patterns/architectural/model-view-controller/model-view-controller.js",
         "strategy": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/strategy/strategy.js",
         "factory-method": "node --harmony software-design-patterns/gang-of-four-patterns/creational/factory-method/factory-method.js",
-        "singleton": "node --harmony software-design-patterns/gang-of-four-patterns/creational/singleton/singleton.js"
+        "singleton": "node --harmony software-design-patterns/gang-of-four-patterns/creational/singleton/singleton.js",
+        "mediator": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/mediator/mediator.js"
     },
     "devDependencies": {
         "super-event-emitter": "^4.1.0"
