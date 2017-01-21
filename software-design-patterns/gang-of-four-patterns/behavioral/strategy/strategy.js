@@ -27,8 +27,8 @@ class StrategyManager {
     }
 }
 
-var strategy;
-var sm = new StrategyManager();
+let strategy;
+let sm = new StrategyManager();
 
 // Add a lot of strategies.
 sm.addStrategy('device-a', () => console.log('A'));

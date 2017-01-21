@@ -26,11 +26,11 @@ Animal.prototype.thanks = function () {
 
 // ---
 
-var Mediator = (function () {
-    var list = {};
+let Mediator = (function () {
+    let list = {};
 
     function publish(topic) {
-        var subscribers = list[topic];
+        let subscribers = list[topic];
         if (!subscribers) return;
         subscribers.forEach((subscriber) => subscriber.callback.call(subscriber.context));
     }
@@ -51,11 +51,11 @@ var Mediator = (function () {
     }
 })();
 
-var john = new Person('john');
-var mike = new Person('mike');
+let john = new Person('john');
+let mike = new Person('mike');
 
-var cat = new Animal('cat');
-var dog = new Animal('dog');
+let cat = new Animal('cat');
+let dog = new Animal('dog');
 
 // Install to each created object.
 [john, mike, cat, dog].forEach(object => Mediator.install(object));

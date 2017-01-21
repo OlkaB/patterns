@@ -31,8 +31,8 @@ class Computer {
     }
 }
 
-var computer;
-var cf = new ComputerFactory();
+let computer;
+let cf = new ComputerFactory();
 
 // Append list of produces computers.
 cf.addComputerType('notebook');

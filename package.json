@@ -2,11 +2,12 @@
     "name": "patterns",
     "description": "Simplest implementation of design patterns in JavaScript",
     "scripts": {
-        "model-view-controller": "node --harmony software-design-patterns/architectural/model-view-controller/model-view-controller.js",
-        "strategy": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/strategy/strategy.js",
-        "factory-method": "node --harmony software-design-patterns/gang-of-four-patterns/creational/factory-method/factory-method.js",
-        "singleton": "node --harmony software-design-patterns/gang-of-four-patterns/creational/singleton/singleton.js",
-        "mediator": "node --harmony software-design-patterns/gang-of-four-patterns/behavioral/mediator/mediator.js"
+        "model-view-controller": "node software-design-patterns/architectural/model-view-controller/model-view-controller.js",
+        "observer": "node software-design-patterns/gang-of-four-patterns/behavioral/observer/observer.js",
+        "strategy": "node software-design-patterns/gang-of-four-patterns/behavioral/strategy/strategy.js",
+        "factory-method": "node software-design-patterns/gang-of-four-patterns/creational/factory-method/factory-method.js",
+        "singleton": "node software-design-patterns/gang-of-four-patterns/creational/singleton/singleton.js",
+        "mediator": "node software-design-patterns/gang-of-four-patterns/behavioral/mediator/mediator.js"
     },
     "devDependencies": {
         "super-event-emitter": "^4.1.0"

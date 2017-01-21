@@ -21,10 +21,10 @@ class UniversumManager {
     }
 }
 
-var um1 = new UniversumManager();
-var um2 = new UniversumManager();
-var um3 = UniversumManager.getInstance();
-var um4 = UniversumManager.getInstance();
+let um1 = new UniversumManager();
+let um2 = new UniversumManager();
+let um3 = UniversumManager.getInstance();
+let um4 = UniversumManager.getInstance();
 
 console.log(um1 === um2);
 console.log(um1 === um3);

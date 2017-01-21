@@ -8,6 +8,7 @@ List of design patterns which they have example.
 
 ```
 $ npm run model-view-controller
+$ npm run observer
 $ npm run strategy
 $ npm run factory-method
 $ npm run singleton
