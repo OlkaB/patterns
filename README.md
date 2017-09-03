@@ -108,7 +108,7 @@ Legend:
 
 ###### SDPB: Command
 
-PL: Polecenie
+> PL: Polecenie
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript
 * http://www.algorytm.org/wzorce-projektowe/polecenie-command.html
@@ -127,7 +127,7 @@ https://github.com/piecioshka/pattern-mediator
 
 ###### [SDPB: Observer](https://github.com/piecioshka/pattern-observer)
 
-PL: Obserwator
+> PL: Obserwator
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
 * http://www.algorytm.org/wzorce-projektowe/obserwator-observer.html
@@ -137,7 +137,7 @@ https://github.com/piecioshka/pattern-observer
 
 ###### [SDPB: Strategy](https://github.com/piecioshka/pattern-strategy)
 
-PL: Strategia
+> PL: Strategia
 
 * http://adamczuk.net.pl/2012/02/10/wzorzec-projektowy-strategia/
 * http://bumbu.ru/javascript-strategy-pattern/
@@ -150,20 +150,20 @@ https://github.com/piecioshka/pattern-strategy
 
 ###### SDPC: Abstract-factory
 
-PL: Fabryka abstrakcyjna
+> PL: Fabryka abstrakcyjna
 
 * http://www.algorytm.org/wzorce-projektowe/fabryka-abstrakcyjna-abstract-factory.html
 
 ###### SDPC: Builder
 
-PL: Budowniczy
+> PL: Budowniczy
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#builderpatternjquery
 * http://www.algorytm.org/wzorce-projektowe/budowniczy-builder.html
 
 ###### [SDPC: Factory-method](https://github.com/piecioshka/pattern-factory-method)
 
-PL: Fabryka
+> PL: Fabryka
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript
 * http://www.algorytm.org/wzorce-projektowe/metoda-wytworcza-factory-method.html
@@ -172,13 +172,13 @@ https://github.com/piecioshka/pattern-factory-method
 
 ###### SDPC: Prototype
 
-PL: Prototyp
+> PL: Prototyp
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript
 
 ###### [SDPC: Singleton](https://github.com/piecioshka/pattern-singleton)
 
-PL: Singleton
+> PL: Singleton
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript
 * http://www.algorytm.org/wzorce-projektowe/singleton-singleton.html
@@ -193,20 +193,20 @@ https://github.com/piecioshka/pattern-singleton
 
 ###### SDPS: Bridge
 
-PL: Most
+> PL: Most
 
 * http://www.algorytm.org/wzorce-projektowe/most-bridge.html
 
 ###### SDPS: Composite
 
-PL: Kompozyt
+> PL: Kompozyt
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#compositepatternjquery
 * http://pl.wikipedia.org/wiki/Kompozyt_(wzorzec_projektowy)
 
 ###### SDPS: Decorator
 
-PL: Dekorator
+> PL: Dekorator
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript
 * http://www.algorytm.org/wzorce-projektowe/dekorator-decorator.html
@@ -215,13 +215,13 @@ PL: Dekorator
 
 ###### SDPS: Facade
 
-PL: Fasada
+> PL: Fasada
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript
 
 ###### SDPS: Flyweight
 
-PL: Pyłek
+> PL: Pyłek
 
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailflyweight
 * http://www.algorytm.org/wzorce-projektowe/pylek-flyweight.html
